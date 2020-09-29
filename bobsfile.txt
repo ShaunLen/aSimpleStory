@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Alices first edit on Bobs file.
+=======
+Bobs first edit.
+>>>>>>> 7cb5a297b774d70db2c1b66211f95dae2170974f
